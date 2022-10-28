@@ -7,6 +7,7 @@ Unreal Engine : 4.27.2
 
 Pico Unreal Platform SDK : 2.1.1
 
+Pico Unreal Platform SDK : 2.0
 
 ## Description:
 This demo demonstrates how to use Pico Unreal Platform SDK to integrate DLC and in-game purchase features for online games.
