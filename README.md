@@ -1,6 +1,6 @@
 # PlatformSDK_IAP_UE4
 
-- If you have any questions/comments, please visit [**Pico Developer Community**](https://developer-global.pico-interactive.com/community) and raise your question there.
+- If you have any questions/comments, please visit [**Pico Developer Support Portal**](https://picodevsupport.freshdesk.com/support/home) and raise your question there.
 
 ## Unreal Engine 4 & SDK Version
 Unreal Engine : 4.27.2
